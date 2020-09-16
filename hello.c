@@ -2,6 +2,6 @@
 
 int main(int argc, char *argv[])
 {
-    printf("Whoa! It's my birthday, let's have a party, y'all!\n");
+    printf("Whoa! It's not my birthday, let's not have a party, y'all!\n");
     return 0;
 }
